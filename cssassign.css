@@ -1,0 +1,20 @@
+.one
+{
+  display: grid;
+  grid-template-columns: 5fr 5fr;
+}
+.two{
+  display: grid;
+  grid-template-columns: 2fr 2fr 2fr;
+}
+.three
+{
+  display: grid;
+  grid-template-columns: 2fr 2fr;
+}
+li{
+  list-style: none;
+}
+h6{
+  color: grey;  
+}
